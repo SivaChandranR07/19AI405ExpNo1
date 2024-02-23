@@ -229,8 +229,8 @@ print(agent.performance)
 ```
 
 <h3>OUTPUT: </h3>
-![IMAGEEX1](https://github.com/SivaChandranR07/19AI405ExpNo1/assets/113497395/6361c773-e26b-4c72-8bf1-aebeef3f8fbd)
 
+![IMAGEEX1](https://github.com/SivaChandranR07/19AI405ExpNo1/assets/113497395/82b79381-d340-44dd-b66d-7cc579e911c7)
 
 <h3>RESULT: </h3>
 
