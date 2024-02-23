@@ -1,6 +1,6 @@
-![image](https://github.com/SivaChandranR07/19AI405ExpNo1/assets/113497395/2fcc0e75-03d9-46af-b3e9-539133b130c5)<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Siva Chandran R</h3>
-<h3>Register Number: 212222240099</h3>
+<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h3>Name: SIVA CHANDRAN R </h3>
+<h3>Register Number: 212222240099 </h3>
 
 
 <h3>AIM:</h3>
@@ -41,10 +41,9 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<H3>CODE:</H3>
+<h3>CODE:</h3>
 
-
-py
+```py
 import random
 import time
 class Thing:
@@ -227,10 +226,12 @@ print(environment.status)
 environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
+```
 
+<h3>OUTPUT: </h3>
 
-<H3>OUTPUT:</H3>
-![image](https://github.com/SivaChandranR07/19AI405ExpNo1/assets/113497395/d3f9416a-6ec7-4517-8e4b-f19cf0912f73)
+![OUTPUT](/FAiOP01.png)
 
-<H3>RESULT:</H3>
-Thus,the program for vaccum cleaner ai agent is executed successfully.
+<h3>RESULT: </h3>
+
+<p>Thus,the program for vaccum cleaner ai agent is executed successfully.</p>
