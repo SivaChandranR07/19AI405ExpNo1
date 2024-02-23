@@ -42,7 +42,9 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 <H3>CODE:</H3>
-```
+
+
+py
 import random
 import time
 class Thing:
@@ -225,7 +227,7 @@ print(environment.status)
 environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
-```
+
 
 <H3>OUTPUT:</H3>
 ![image](https://github.com/SivaChandranR07/19AI405ExpNo1/assets/113497395/d3f9416a-6ec7-4517-8e4b-f19cf0912f73)
